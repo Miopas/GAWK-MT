@@ -33,4 +33,4 @@ BUGs:
 
 
 # Others
-有任何问题可以提 ISSUE 或者联系我的邮箱: gyt_guoyuting@126.com
+有任何问题可以提 ISSUE。
